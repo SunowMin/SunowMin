@@ -11,7 +11,8 @@
 <br><br>
 
 ### 🔨Tools🔨
-[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">]([https://github.com/sumingq]([https://github.com/SunowMin](https://github.com/SunowMin))) [<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">](https://velog.io/@sumingq) 
+[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">]([https://github.com/sumingq]([https://github.com/SunowMin](https://github.com/SunowMin))) 
+[<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">](https://velog.io/@sumingq) 
 
 https://github.com/SunowMin
 <br><br>
